@@ -14,7 +14,8 @@ L'entreprise souhaite maximiser ses ventes par le biais de campagnes de marketin
 Les données utilisées dans ce projet proviennent de [Dummy Marketing and Sales Data](https://www.kaggle.com/datasets/harrimansaragih/dummy-advertising-and-sales-data). Les données comprenaient environ 4546 campagnes de marketing uniques et 5 caractéristiques. Parmis ces caractéristiques on peut citer les ventes réalisées, les budgets de publicités alloués à la télévision, à la radio, aux réseaux sociaux et aux influenceurs. Le graphique ci-dessous montre la relation entre les ventes effectuées et les variables 'Tv' et 'Réseau Social'.
 
 
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/9a857184-2d1b-48c9-8833-3dec3e8fbe7e)
+
 
 Dans le même ordre d'idées, une ingénieurie des caractéristiques a été mise au point pour indiquer si le budget alloué aux dépenses de télévision est faible ou moyenne ou élevée. Des entrées redondantes ont été supprimées.
 
